@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quickbinary
-- 👀 I’m interested in physical computing
-- 🌱 I’m currently learning software and IoT
-- 💞️ I’m looking to collaborate on IoT projects, Arduino programming, Robotics
+- 👀 I’m interested in Physical Computing, IoT, Automation
+- 🌱 I’m currently learning Project Management and IoT
+- 💞️ I’m looking to collaborate on IoT projects, Arduino Programming, Robotics
 - 📫 How to reach me @kev_the_techie
 
 <!---
